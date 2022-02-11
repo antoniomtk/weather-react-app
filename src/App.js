@@ -13,7 +13,7 @@ const App = () => {
             <Header />
             <Form />
             <Result />
-            <Footer />
+            {/* <Footer /> */}
          </div>
       </MyProvider>
    );
